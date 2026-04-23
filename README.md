@@ -1,6 +1,6 @@
 
 # Form UI
-![Form](./ss/form.jpeg)
+<img src="./ss/form.jpeg" width="300" height="550" />
 
 # Display Data
-![Display Data](./ss/display_data.jpeg)
+<img src="./ss/display_data.jpeg" width="300" height="550" />
